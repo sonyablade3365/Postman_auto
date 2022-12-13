@@ -1,1 +1,2 @@
-# Postman_auto Автотесты в Postman на JavaScript. 
+# Postman_auto 
+Коллекция запросов Postman на создание сощностей на сайте и работе с ними. Для каждого запроса написан простой автотест на JavaScript
